@@ -87,3 +87,10 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.containerFooterFinal {
+  background-color: #09022cd6;
+  color: #ffffff;
+  padding: 5px;
+  text-align: center;
+  width: 100%;
+}
